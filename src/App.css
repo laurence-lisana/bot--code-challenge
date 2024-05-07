@@ -1,0 +1,17 @@
+.ui.segment {
+  border: 6px solid aquamarine; 
+  border-radius: 9px;
+  margin-bottom: 20px;
+}
+
+.ui.segment:hover {
+  border-color: rgb(20, 85, 97);
+}
+
+.ui.segment .card-content {
+  padding: 6px; 
+  border-color: azure;
+}
+.ui.segment:hover {
+  border-color:brown; 
+}
